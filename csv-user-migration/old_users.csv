@@ -1,0 +1,8 @@
+username,role,email,status
+gabriel.dev,admin,gabriel@empresa.com,active
+beni.sys,user,beni@empresa.com,inactive
+abril.ont,user,abril@empresa.com,active
+alberto.ops,admin,albertoempresa.com,active
+test.user,user,test@empresa.com,inactive
+carlos.sec,user,carlos@empresa.com,active
+error.host,user,bad_email_address,active

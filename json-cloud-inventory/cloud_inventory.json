@@ -1,0 +1,38 @@
+[
+  {
+    "hostname": "srv-prod-web01",
+    "region": "eu-west",
+    "status": "active",
+    "disks": [100, 150, 50]
+  },
+  {
+    "hostname": "srv-dev-db",
+    "region": "us-east",
+    "status": "stopped",
+    "disks": [100]
+  },
+  {
+    "hostname": "srv-prod-api02",
+    "region": "eu-west",
+    "status": "active",
+    "disks": [50, 50]
+  },
+  {
+    "hostname": "srv-stage-app",
+    "region": "eu-west",
+    "status": "active",
+    "disks": [200, 200]
+  },
+  {
+    "hostname": "srv-prod-cache",
+    "region": "us-east",
+    "status": "active",
+    "disks": [300]
+  },
+  {
+    "hostname": "srv-backup-eu",
+    "region": "eu-west",
+    "status": "stopped",
+    "disks": [500, 500]
+  }
+]
